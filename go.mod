@@ -1,4 +1,4 @@
-module github.com/yudai/gotty
+module github.com/borancar/gotty
 
 go 1.16
 
